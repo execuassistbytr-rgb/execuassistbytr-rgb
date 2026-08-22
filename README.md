@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Execuassistbytr-rgb!
 
-<!--
-**execuassistbytr-rgb/execuassistbytr-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my developer profile! I am a passionate learner currently exploring web development frameworks, AI prototyping tools, and full-stack software architectures across structured learning pathways.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Learning Milestones & Tracks
+* ⚡ **SheCodes Basics:** Building strong manual coding foundations in HTML5, CSS3, and JavaScript.
+* 🤖 **SheCodes AI Basics:** Experimenting with AI-driven workflows, prompting, and rapid prototyping using tools like **Lovable**.
+* 🗺️ **Elevvo Pathways:** Mapping out career-focused tech modules and professional developer tracks.
+* 💻 **Scrimba:** Diving into interactive, hands-on codebase challenges to level up my deployment skills.
+
+---
+
+## 🛠️ Tech Stack & Toolkit
+* **Core Web Tech:** HTML5, CSS3, JavaScript (Core Foundations)
+* **AI Prototyping:** Prompt engineering, `bolt.new`, asset automation, and UI/UX layouts
+* **Environments:** VS Code, Git, GitHub Web, browser developer tools
+
+---
+
+## 📁 Featured Projects
+* 🌤️ **[Tokyo Weather App](https://github.com)** — A responsive weather forecast dashboard built from scratch using semantic HTML and advanced CSS alignment.
+* 🎨 **[My Portfolio Project](https://github.com)** — An independent profile prototype mapping out my technical presence.
+* 📚 **[Coding Assignments Hub](https://github.com)** — The central umbrella workspace for all my core curriculum challenges.
+* ☕ **[Code and Coffee](https://github.com)** — A design-focused project exploring typography and layout alignment.
+
+---
+
+✨ Connect with me or follow my progress!
+**— Tammy Richards**
+
