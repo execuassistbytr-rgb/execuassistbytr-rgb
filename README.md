@@ -20,16 +20,15 @@ Welcome to my developer profile! I am a passionate learner currently exploring w
 ---
 
 ## 📁 Featured Projects
-
-* 🌤️ **<a href="https://github.com" target="_blank">Tokyo Weather App</a>** — My actual handwritten code for the weather forecast dashboard, built using semantic HTML and custom CSS.
-* 🎨 **<a href="https://github.com" target="_blank">My Portfolio Project</a>** — An independent profile prototype mapping out my technical presence.
-* 📚 **<a href="https://github.com" target="_blank">Coding Assignments Hub</a>** — The central umbrella workspace for all my core curriculum challenges.
-* ☕ **<a href="https://github.com" target="_blank">Code and Coffee</a>** — A design-focused project exploring typography and layout alignment.
+* 🌤️ **[Tokyo Weather App](https://github.com)** — My actual handwritten code for the weather forecast dashboard, built using semantic HTML and custom CSS.
+* 🎨 **[My Portfolio Project](https://github.com)** — An independent profile prototype mapping out my technical presence.
+* 📚 **[Coding Assignments Hub](https://github.com)** — The central umbrella workspace for all my core curriculum challenges.
+* ☕ **[Code and Coffee](https://github.com)** — A design-focused project exploring typography and layout alignment.
 
 ---
 
-*“The best way to predict the future is to code it.”* Thanks for stopping by!
+“The best way to predict the future is to code it.” Thanks for stopping by!
 
-✨ Connect with me or follow my progress!
-**— Tammy Richards**
+---
+⏩ Connect with me or follow my progress! — **Tammy Richards**
 
