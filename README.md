@@ -28,6 +28,8 @@ Welcome to my developer profile! I am a passionate learner currently exploring w
 
 ---
 
+*“The best way to predict the future is to code it.”* Thanks for stopping by!
+
 ✨ Connect with me or follow my progress!
 **— Tammy Richards**
 
