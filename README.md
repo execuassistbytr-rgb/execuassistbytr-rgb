@@ -21,7 +21,7 @@ Welcome to my developer profile! I am a passionate learner currently exploring w
 
 ## 📁 Featured Projects
 
-* 🌤️ [Tokyo Weather App](https://github.com) — A responsive weather forecast dashboard built from scratch using semantic HTML and advanced CSS alignment.
+* 🌤️ [Tokyo Weather App](https://github.com) — My actual handwritten code for the weather forecast dashboard.
 * 🎨 **My Portfolio Project** *(Private Workspace)* — An independent profile prototype mapping out my technical presence.
 * 📚 **Coding Assignments Hub** *(Private Coursework)* — The central umbrella workspace for all my core curriculum challenges.
 * ☕ **Code and Coffee** *(Private Workspace)* — A design-focused project exploring typography and layout alignment.
