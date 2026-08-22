@@ -20,10 +20,11 @@ Welcome to my developer profile! I am a passionate learner currently exploring w
 ---
 
 ## 📁 Featured Projects
-* 🌤️ **Homework Project:** [Tokyo Weather Landing Page](./Week%201/tokyo-weather-app/homework-wk1.html) — My actual handwritten code for the weather forecast dashboard, built using semantic HTML and custom CSS.
-* 🎨 **[My Portfolio Project](https://github.com)** — An independent profile prototype mapping out my technical presence.
-* 📚 **[Coding Assignments Hub](https://github.com)** — The central umbrella workspace for all my core curriculum challenges.
-* ☕ **[Code and Coffee](https://github.com)** — A design-focused project exploring typography and layout alignment.
+
+* 🌤️ **[Tokyo Weather App](https://github.com)** — A responsive weather forecast dashboard built from scratch using semantic HTML and advanced CSS alignment.
+* 🎨 **My Portfolio Project** *(Private Sandbox)* — An independent profile prototype built using bolt.new and Lovable to map out my technical presence.
+* 📚 **Coding Assignments Hub** *(Private Coursework)* — The central umbrella workspace for all my core curriculum challenges.
+* ☕ **Code and Coffee** *(Private Sandbox)* — A design-focused project exploring typography and layout alignment.
 
 ---
 
