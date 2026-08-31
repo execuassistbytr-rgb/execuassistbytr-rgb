@@ -5,6 +5,7 @@ Welcome to my developer profile! I am a passionate learner currently exploring w
 ---
 
 ## 🚀 Learning Milestones & Tracks
+
 * ⚡ **SheCodes Basics:** Building strong manual coding foundations in HTML5, CSS3, and JavaScript.
 * 🤖 **SheCodes AI Basics:** Experimenting with AI-driven workflows, prompting, and rapid prototyping using tools like **Lovable**.
 * 🗺️ **Elevvo Pathways:** Mapping out career-focused tech modules and professional developer tracks.
@@ -13,6 +14,7 @@ Welcome to my developer profile! I am a passionate learner currently exploring w
 ---
 
 ## 🛠️ Tech Stack & Toolkit
+
 * **Core Web Tech:** HTML5, CSS3, JavaScript (Core Foundations)
 * **AI Prototyping:** Prompt engineering, `bolt.new`, asset automation, and UI/UX layouts
 * **Environments:** VS Code, Git, GitHub Web, browser developer tools
@@ -21,6 +23,8 @@ Welcome to my developer profile! I am a passionate learner currently exploring w
 
 ## 📁 Featured Projects
 
+🚀 **[My Coding Journey]([https://github.com](https://execuassistbytr-rgb.github.io/my-coding-journey/))** — My absolute favorite project! A dynamic, premium neon dark-mode interface built to showcase structural frontend engineering, advanced CSS transitions, and complex interactive JavaScript prompt validation networks. 
+🥛 **[Greek Yogurt Landing Page]([https://github.com](https://execuassistbytr-rgb.github.io/greek-yogurt-landing-page/))** — A warm, beautifully balanced product page exploring multi-column structural grids, strict image alignment boundaries, and operational logic paths.
 * 🌤️ **[Tokyo Weather App](https://github.com/execuassistbytr-rgb/tokyo-weather-app)** — A responsive weather forecast dashboard built from scratch using semantic HTML and advanced CSS alignment. 
 * 🎨 **My Portfolio Project** *(Private Workspace)* — An independent profile prototype mapping out my technical presence.
 * 🗺️ **SheCodes Cape Town Landing Page** *(Private Workspace)* — A localized geographical guide exploring structured landing page fundamentals.
