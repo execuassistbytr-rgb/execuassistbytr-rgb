@@ -24,7 +24,7 @@ Welcome to my developer profile! I am a passionate learner currently exploring w
 ## 📁 Featured Projects
 * 🚀 **[My Coding Journey](https://execuassistbytr-rgb.github.io/my-coding-journey/))** — **SheCodes Basics Final Project.** My absolute favorite project! A dynamic, premium neon dark-mode interface built to showcase structural frontend engineering, advanced CSS transitions, and complex interactive JavaScript prompt validation networks. 
 * 🥛 **[Greek Yogurt Landing Page](https://execuassistbytr-rgb.github.io/greek-yogurt-landing-page/))** — **SheCodes Basics Week 3 Learning Challenge.** A warm, beautifully balanced product page exploring multi-column structural grids, strict image alignment boundaries, and operational logic paths.
-* 🌤️ **[Tokyo Weather App](https://github.com/execuassistbytr-rgb/tokyo-weather-app)** — **SheCodes Basics Week 1 Assignment (Updated in Week 2).** A responsive weather forecast dashboard built from scratch using semantic HTML and advanced CSS alignment.
+* 🌤️ **[Tokyo Weather App](https://execuassistbytr-rgb.github.io/tokyo-weather-app/))** — **SheCodes Basics Week 1 Assignment (Updated in Week 2).** A responsive weather forecast dashboard built from scratch using semantic HTML and advanced CSS alignment.
 * 🎨 **My Portfolio Project** *(Private Workspace)* — An independent profile prototype mapping out my technical presence.
 * 🗺️ **SheCodes Cape Town Landing Page** *(Private Workspace)* — A localized geographical guide exploring structured landing page fundamentals.
 * 📚 **Coding Assignments Hub** *(Private Coursework)* — The central umbrella workspace for all my core curriculum challenges.
