@@ -1,39 +1,75 @@
-# 👋 Hi, I'm Execuassistbytr-rgb!
+# 👋 Hi, I'm Tammy Richards
 
-Welcome to my developer profile! I am a passionate learner currently exploring web development frameworks, AI prototyping tools, and full-stack software architectures across structured learning pathways.
+Welcome to my developer profile! 
 
----
-
-## 🚀 Learning Milestones & Tracks
-
-* ⚡ **SheCodes Basics:** Building strong manual coding foundations in HTML5, CSS3, and JavaScript.
-* 🤖 **SheCodes AI Basics:** Experimenting with AI-driven workflows, prompting, and rapid prototyping using tools like **Lovable**.
-* 🗺️ **Elevvo Pathways:** Mapping out career-focused tech modules and professional developer tracks.
-* 💻 **Scrimba:** Diving into interactive, hands-on codebase challenges to level up my deployment skills.
+I'm building my technical foundation through hands-on learning in web development, AI-assisted development, and automation, while continuing to explore how technology can solve real-world problems. I'm especially interested in understanding what happens behind the tools and digital products we use — not just how to use them.
 
 ---
 
-## 🛠️ Tech Stack & Toolkit
+### 🚀 My Learning Journey
 
-* **Core Web Tech:** HTML5, CSS3, JavaScript (Core Foundations)
-* **AI Prototyping:** Prompt engineering, `bolt.new`, asset automation, and UI/UX layouts
-* **Environments:** VS Code, Git, GitHub Web, browser developer tools
+* **🎓 SheCodes Coding Basics** — Completed & Graduated, August 2026
+* **🤖 SheCodes AI Basics** — Final Project Completed, September 2026
+* **💻 Ellevvo Web Development** — Continuing
+* **🧠 The Odin Project** — Continuing
+* **🐍 Python with Scrimba** — Continuing
+* **🔧 Independent Projects & AI Experiments** — Ongoing
 
----
-
-## 📁 Featured Projects
-* 🚀 **[My Coding Journey](https://execuassistbytr-rgb.github.io/my-coding-journey/))** — **SheCodes Basics Final Project.** My absolute favorite project! A dynamic, premium neon dark-mode interface built to showcase structural frontend engineering, advanced CSS transitions, and complex interactive JavaScript prompt validation networks. 
-* 🥛 **[Greek Yogurt Landing Page](https://execuassistbytr-rgb.github.io/greek-yogurt-landing-page/))** — **SheCodes Basics Week 3 Learning Challenge.** A warm, beautifully balanced product page exploring multi-column structural grids, strict image alignment boundaries, and operational logic paths.
-* 🌤️ **[Tokyo Weather App](https://execuassistbytr-rgb.github.io/tokyo-weather-app/))** — **SheCodes Basics Week 1 Assignment (Updated in Week 2).** A responsive weather forecast dashboard built from scratch using semantic HTML and advanced CSS alignment.
-* 🎨 **My Portfolio Project** *(Private Workspace)* — An independent profile prototype mapping out my technical presence.
-* 🗺️ **SheCodes Cape Town Landing Page** *(Private Workspace)* — A localized geographical guide exploring structured landing page fundamentals.
-* 📚 **Coding Assignments Hub** *(Private Coursework)* — The central umbrella workspace for all my core curriculum challenges.
-* ☕ **Code and Coffee** *(Private Workspace)* — A design-focused project exploring typography and layout alignment.
+> **My approach is simple:** Learn → Build → Test → Debug → Improve
 
 ---
 
-“The best way to predict the future is to code it.” Thanks for stopping by!
+### 🛠️ Current Toolkit
+
+#### 💻 Web Development
+* HTML5 • CSS3 • JavaScript (Core Foundations)
+
+#### 🛠️ Development Tools & SEO
+* VS Code • Git • GitHub • Chrome DevTools • Prettier • SEO Meta Optimization • Favicon Design
+
+#### 🤖 AI-Assisted Development
+* Lovable • Bolt.new • AI coding assistants • Prompt Engineering • Vibe Coding • Open Graph Implementation
+
+#### 📈 Expanding Skills
+* Python • Automation • Deep Web Architectures
 
 ---
-⏩ Connect with me or follow my progress! — **Tammy Richards**
+
+### 📁 Featured Projects
+
+* **🔥 Dev-Fuel Workspace**
+  * *SheCodes AI Basics — Capstone Final Project*
+  * My premium AI-assisted developer dashboard. Fuses my Coding Basics foundation with prompt orchestration, responsive layout formatting, interactive study timers, background audio telemetry streams, and live AI news feeds.
+* **🚀 My Coding Journey**
+  * *SheCodes Coding Basics — Final Project*
+  * My absolute favorite foundation project, bringing together the HTML, CSS, and JavaScript structures developed throughout my initial training.
+* **🌤️ Tokyo Weather App**
+  * *SheCodes Coding Basics — Week 1 / Week 2 Assignment*
+  * My first major responsive forecast dashboard, updated with core JavaScript logic parameters as my manual skills developed.
+* **🥣 Greek Yogurt Landing Page**
+  * *SheCodes Coding Basics — Homework Challenge*
+  * A beautifully spaced product landing page created while developing grid system alignments.
+* **📚 Coding Assignments Hub**
+  * *My Central Repository*
+  * The umbrella repository for my coursework, assignments, experiments, and developmental milestones.
+
+---
+
+### 💡 Why I'm Learning to Code
+
+ I'm building a technical layer on top of my existing business and digital experience. Learning to code helps me understand how applications and digital products are actually built, while giving me the ability to explore, customize, troubleshoot, and eventually help build solutions. 
+
+I'm highly passionate about the space where business problems, people, technology, AI, and automation meet.
+
+---
+
+### 🌱 What's Next
+
+I'm continuing to build, experiment, and learn — expanding beyond coursework into independent projects and deeper technical development. This profile will evolve as my skills do.
+
+**Learn. Build. Break. Debug. Improve. Repeat.**
+
+---
+
+*“The best way to predict the future is to code it.”* Thanks for stopping by! ☕✨
 
