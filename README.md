@@ -6,7 +6,7 @@ I'm building my technical foundation through hands-on learning in web developmen
 
 ---
 
-### 🚀 My Learning Journey
+### 🧑‍💻 My Learning Journey
 
 * **🎓 SheCodes Coding Basics** — Completed & Graduated, August 2026
 * **🤖 SheCodes AI Basics** — Final Project Completed, September 2026
